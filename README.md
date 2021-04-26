@@ -1,5 +1,7 @@
 # Run 
 
+Install Chrome [`webdriver`](https://selenium-python.readthedocs.io/installation.html#drivers)
+
 Install dependencies
 
 ```sh
